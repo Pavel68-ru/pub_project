@@ -106,7 +106,7 @@ git вшаа <commite hash> <commite hash>
 
 git diff - позваляет посмотреть измененные файлы.
 git diff <hashA> <hashB> - позволяет сравнить отслеживаемы изменения, при расположении <hashB> <hashA> можно посмотреть обратную историю.  
-<span style="color:red"> *- удаление данных*</span>
+<span style="color:red">some *red* - удаление данных</span>
 
 Материалы [Яндекс практикум](https://practicum.yandex.ru/profile/git-basics/)  
  
